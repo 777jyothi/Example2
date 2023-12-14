@@ -4,6 +4,7 @@ public class User {
 
 	private String name;
 	private long contact;
+	private String gmail;
 	
 	public String getName() {
 		return name;
